@@ -2,7 +2,7 @@
 
 ## Description
 
-This application allows the user to generate a custom SVG logo provided they know what text they would like, along with shape and hexidecimal color codes for the text and shape color using only the integrated terminal in vs code without any GUI. This project allowed me to become familiar with the use of node, the inquirer prompt and response command, template literals, jest package and the fs writefile function. This code also required the user to write tests to pass the npm run test check for shapes so I was able to become familiar with writing passing tests.
+This application allows the user to manage their employee list. A list of functions include being able to add employee, delete employee, update employee role, view all employees, add role, delete role, view all roles, add department, delete department, and view all departments. This complex application allowed me to become familiar with the use of the inquirer prompt and response command, mysql databases, table joining, async/await functions and foreign/primary keys.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This application allows the user to generate a custom SVG logo provided they kno
 
 ## Installation
 
-A user just needs to open the integrated terminal in vscode, install the latest node packages, inquirer package and jest package to be able to use this application. 
+A user just needs to open the integrated terminal in vscode, install the latest node packages, inquirer package and mysql package to be able to use this application using the command "npm i". 
 
 ## Usage
 
@@ -24,7 +24,7 @@ Above is a link to the google drive with the video demo available on how to prop
 
 ## Credits
 
-I referenced many classroom activities to familiarize myself with the user of node, inquirer prompt/response, template literals and jest. The readme attached to the challenge demonstrated what a completed logo should look like so that was referenced as an example during testing of this application. I also utilized the web to look up hexidecimal codes as well as SVG documentation. 
+I referenced many classroom activities to familiarize myself with the user of mysql databases, table joining, async/await functions and foreign/primary keys. I also used google to research many concepts such as console.table and details about table joining.
 
 ## License
 
@@ -46,7 +46,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## How to Contribute
 
 If you have any questions or contributions, please don't hesitate to reach out via email at [danny.mak2@gmail.com](mailto:danny.mak2@gmail.com) or through my [GitHub profile](https://github.com/dannymak1993).
-
-## Tests
-
-Many sample readmes were made in order to test this application but no official test files were written for this application. 
